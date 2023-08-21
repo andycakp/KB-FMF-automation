@@ -1,0 +1,90 @@
+{
+	"valid_data":{
+		"birth_date": "1980-01-01",
+		"full_name": "UserGDAA",
+		"id_number": "3511000101806300",
+		"mobile_phone": "085880520001",
+		"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+		"transaction_id": "TST0001230001"
+	},
+	"invalid_name":{
+		"birth_date": "1980-01-01",
+    	"full_name": "UserGDPP",
+    	"id_number": "3511000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "TST0001230002"
+	},
+	"invalid_birth_date":{
+		"birth_date": "1992-05-21",
+    	"full_name": "UserGDAA",
+    	"id_number": "3511000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "TST0001230004"
+	},
+	"invalid_nik":{
+		"birth_date": "1980-01-01",
+    	"full_name": "UserGDAA",
+    	"id_number": "3663000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "EFM0001230003"
+	},
+	"inactive_nik":{
+		"birth_date": "1980-01-01",
+    	"full_name": "UserGDAA",
+    	"id_number": "5411000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "TST0001230014"
+	},
+	"invalid_response_data":{
+		"birth_date": "1980-01-01",
+    	"full_name": "UserGDAA",
+    	"id_number": "3523000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "EFM0001230006"
+	},
+	"unauthoritative_source":{
+		"birth_date": "1980-01-01",
+    	"full_name": "UserGDAA",
+    	"id_number": "3523000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "EFM0001230006"
+	},
+	"quota_exhausted":{
+		"birth_date": "1980-01-01",
+    	"full_name": "UserGDAA",
+    	"id_number": "3521000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "TST0001230007"
+	},
+	"gateway_timeout":{
+		"birth_date": "1980-01-01",
+    	"full_name": "UserGDAA",
+    	"id_number": "4611000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "TST0001230019"
+	},
+	"deceased_user":{
+		"birth_date": "1980-01-01",
+    	"full_name": "UserGDAA",
+    	"id_number": "5111000101806300",
+    	"mobile_phone": "085880520001",
+    	"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+    	"transaction_id": "TST0001230015"
+	},
+	"outside_access_hour":{
+		"birth_date": "1980-01-01",
+		"full_name": "UserGDAA",
+		"id_number": "4551000101806300",
+		"mobile_phone": "085880520001",
+		"selfie_url": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPW-211022-557B117-selfie/selfie_KPW-211022-557B117-selfie.jpg",
+		"transaction_id": "TST0001230013"
+	}
+}

@@ -1,0 +1,30 @@
+
+{
+    "Adins_url":{
+        "CONTENT_TYPE" : "application/json",
+        "URL_API_DEV_ADINS": "http://10.9.100.231/los-int-ekyc/api/v1/adins/verify",
+        "URL_API_TESTING_ADINS" : "http://10.9.100.131/los-int-ekyc/api/v1/adins/verify",
+        "URL_API_STAGING_ADINS" : "http://10.9.100.137/los-int-ekyc/api/v1/adins/verify"
+    },
+    "Dukcapil_url":{
+        "CONTENT_TYPE" : "application/json",
+        "URL_API_DEV_DUKCAPIL" : "http://10.9.100.231/los-int-ekyc/api/v1/dukcapil/wg",
+        "URL_API_DEV_FR_DUKCAPIL": "http://10.9.100.231/los-int-ekyc/api/v1/dukcapil/face-recognition",
+        "URL_API_DEV_VD_DUKCAPIL" : "http://10.9.100.231/los-int-ekyc/api/v1/dukcapil/verify",
+        "URL_API_TESTING_DUKCAPIL" : "http://10.9.100.131/los-int-ekyc/api/v1/dukcapil/wg",
+        "URL_API_TESTING_FR_DUKCAPIL": "http://10.9.100.131/los-int-ekyc/api/v1/dukcapil/face-recognition",
+        "URL_API_TESTING_VD_DUKCAPIL" : "http://10.9.100.131/los-int-ekyc/api/v1/dukcapil/verify",
+        "URL_API_STAGING_DUKCAPIL" : "http://10.9.100.137/los-int-ekyc/api/v1/dukcapil/wg",
+        "URL_API_STAGING_FR_DUKCAPIL": "http://10.9.100.137/los-int-ekyc/api/v1/dukcapil/face-recognition",
+        "URL_API_STAGING_VD_DUKCAPIL" : "http://10.9.100.137/los-int-ekyc/api/v1/dukcapil/verify"
+    },
+    "Faceplus_url":{
+        "CONTENT_TYPE" : "application/json",
+        "URL_API_DEV_DETECT_FACEPLUS": "http://10.9.100.231/los-int-ekyc/api/v1/detect/base64",
+        "URL_API_TESTING_DETECT_FACEPLUS" : "http://10.9.100.131/los-int-ekyc/api/v1/detect/base64",
+        "URL_API_STAGING_DETECT_FACEPLUS" : "http://10.9.100.137/los-int-ekyc/api/v1/detect/base64y",
+        "URL_API_DEV_COMPARE_FACEPLUS": "http://10.9.100.231/los-int-ekyc/api/v1/compare/base64",
+        "URL_API_TESTING_COMPARE_FACEPLUS" : "http://10.9.100.131/los-int-ekyc/api/v1/compare/base64",
+        "URL_API_STAGING_COMPARE_FACEPLUS" : "http://10.9.100.137/los-int-ekyc/api/v1/compare/base64"
+    }
+}

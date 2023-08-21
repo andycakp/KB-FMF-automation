@@ -1,0 +1,72 @@
+{
+    "nik_dan_foto_sesuai":{
+        "transaction_id": "OTO-TEST-100011",
+        "threshold": "5",
+        "customer_id": "082318221",
+        "id_number": "7312042510710001",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "nik_sesuai_foto_tidak":{
+        "transaction_id": "OTO-TEST-100012",
+        "threshold": "5",
+        "customer_id": "082318222",
+        "id_number": "7312042510720003",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "nik_beda_foto_sesuai":{
+        "transaction_id": "OTO-TEST-100013",
+        "threshold": "5",
+        "customer_id": "082318223",
+        "id_number": "7312042510720004",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "invalid_user":{
+        "transaction_id": "OTO-TEST-100014",
+        "threshold": "5",
+        "customer_id": "082318230",
+        "id_number": "7312042510720005",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "invalid_ip":{
+        "transaction_id": "OTO-TEST-100015",
+        "threshold": "5",
+        "customer_id": "082318229",
+        "id_number": "7312042510720007",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "threshold_tidak_sesuai":{
+        "transaction_id": "OTO-TEST-100016",
+        "threshold": "5",
+        "customer_id": "082318228",
+        "id_number": "7312042510720008",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "kuota_habis":{
+        "transaction_id": "OTO-TEST-100017",
+        "threshold": "5",
+        "customer_id": "082318227",
+        "id_number": "7312042510720006",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "nik_gagal_decrypt":{
+        "transaction_id": "OTO-TEST-100018",
+        "threshold": "5",
+        "customer_id": "082318224",
+        "id_number": "7312042510720009",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "sistem_sibuk":{
+        "transaction_id": "OTO-TEST-100019",
+        "threshold": "5",
+        "customer_id": "082318225",
+        "id_number": "7312042510720010",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    },
+    "parameter_tidak_sesuai":{
+        "transaction_id": "OTO-TEST-100020",
+        "threshold": "5",
+        "customer_id": "082318226",
+        "id_number": "7312042510720031",
+        "selfie_image": "https://dev-platform-media.kreditplus.com/media/reference/40000/KPM-6937/ktp_KPM-6937.jpg"
+    }
+}
