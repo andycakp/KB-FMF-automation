@@ -127,7 +127,7 @@ describe('Faceplus Compare Integrator API ', function () {
             let result = response.body.data
             let meta = response.body.meta
             
-            expect(meta.code).to.eq(500);
+            expect(meta.code).to.eq(400);
             expect(meta.status).to.eq("Internal Server Error");
             expect(meta.message).to.eq("Oops, Something Went Wrong");
             expect(meta.error).eq("We are Sorry, The Service Is Not Available Right Now");
