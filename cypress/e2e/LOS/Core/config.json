@@ -8,13 +8,10 @@
     },
     "Dukcapil_url":{
         "CONTENT_TYPE" : "application/json",
-        "URL_API_DEV_DUKCAPIL" : "http://10.9.100.231/los-int-ekyc/api/v1/dukcapil/wg",
         "URL_API_DEV_FR_DUKCAPIL": "http://10.9.100.231/los-int-ekyc/api/v1/dukcapil/face-recognition",
         "URL_API_DEV_VD_DUKCAPIL" : "http://10.9.100.231/los-int-ekyc/api/v1/dukcapil/verify",
-        "URL_API_TESTING_DUKCAPIL" : "http://10.9.100.131/los-int-ekyc/api/v1/dukcapil/wg",
         "URL_API_TESTING_FR_DUKCAPIL": "http://10.9.100.131/los-int-ekyc/api/v1/dukcapil/face-recognition",
         "URL_API_TESTING_VD_DUKCAPIL" : "http://10.9.100.131/los-int-ekyc/api/v1/dukcapil/verify",
-        "URL_API_STAGING_DUKCAPIL" : "http://10.9.100.137/los-int-ekyc/api/v1/dukcapil/wg",
         "URL_API_STAGING_FR_DUKCAPIL": "http://10.9.100.137/los-int-ekyc/api/v1/dukcapil/face-recognition",
         "URL_API_STAGING_VD_DUKCAPIL" : "http://10.9.100.137/los-int-ekyc/api/v1/dukcapil/verify"
     },
